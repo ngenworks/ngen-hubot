@@ -17,7 +17,10 @@
   "dependencies": {
     "hubot": "2.1.0",
     "hubot-scripts": "2.0.2",
-    "optparse": "1.0.3"
+    "optparse": "1.0.3",
+    "xml2js": "0.2.6",
+    "jsdom": "0.5.5",
+    "pypi": "0.1.2"
   }
 }
 
