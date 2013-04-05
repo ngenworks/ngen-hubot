@@ -1,4 +1,14 @@
-# This shows pictures of our little dog Bessie.
+# Description:
+#   Hubot shows cuteness
+#
+# Dependencies:
+#   None
+#
+# Commands:
+#   bessie me
+#
+# Author:
+#   greg
 
 module.exports = (robot) ->
   robot.respond /bessie me/i, (msg) ->
