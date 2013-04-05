@@ -19,7 +19,8 @@
     "hubot-scripts": ">= 2.4.1",
     "optparse":      "1.0.3",
     "url": "",
-    "querystring": ""
+    "querystring": "",
+    "scraper": "0.0.9"
   },
 
   "engines": {
