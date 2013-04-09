@@ -4,5 +4,6 @@
 	"shipit.coffee",
 	"jenkins.coffee",
 	"jenkins-notifier.coffee",
-	"archer.coffee"
+	"archer.coffee",
+	"pypi.coffee"
 ]
